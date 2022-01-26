@@ -6,5 +6,5 @@
 
 ## Table of Contents
 
-- [reading-notes-Read-01](/README.md)
-- [reading-notes-Read-02](/README.md)
+<a href="https://github.com/khill365/reading-notes-Read-01">reading-notes-Read-01</a>
+<a href="https://github.com/khill365/reading-notes-Read-02">reading-notes-Read-02</a>
